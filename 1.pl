@@ -3,7 +3,7 @@ sum(X, Y, Sum) :-
 % Input :     
 % ?- sum(5, 10, Sum).
 
-Ouput
+% Ouput
 % The sum of 5 and 10 is 15
 % Sum = 15
 % true.
